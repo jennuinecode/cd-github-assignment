@@ -1,0 +1,11 @@
+.container {
+    width: 970px;
+    margin: auto;
+    padding: 20px;
+    border-color: 1px solid maroon;
+}
+img {
+    display: inline-block;
+    width: 40%;
+    height: auto;
+}
